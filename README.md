@@ -1,11 +1,10 @@
-# *Replace with YourProposedProposedProjectName*
+# WhatcanIwatch
 ## Description/Motivation
-
-Your formally written project proposal description, and why it is useful/interesting/fun goes here. Try to be as descriptive as possible, as we will be discussing your project ideas during the brainstorming in class.
+ A movie website that suggest movies to the user based on a certain criterial and then tells them were to watch that movie. Also, it provides a place to blog about the movie 
 
 ### Prerequisites
 
-What is likely to be needed to install and to run *YourProposedProjectName* go here. If nothing is required (i.e. it is a website), state so.
+It is going to be a website. I want to use HTML, CSS, Bootstrap, flask
 
 ## Built With
 
