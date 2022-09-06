@@ -9,19 +9,15 @@ What is likely to be needed to install and to run *YourProposedProjectName* go h
 
 ## Built With
 
-- [afreamework1](http://www.aframework1.io/): A framework that is likly to be used goes here.
-- [afreamework2](http://www.aframework2.io/): A second framework that is likly to be used goes here.
-- IDE, if applicable
+- Python
 
 ## Author
 
-- **Your name**: *YourProposadProjectName* [yourLinkedIn or yourGithub profile](https://adrress)
+- **Brandon Atu**: *WhatcanIwatch* https://www.github.com/Atu175
 
 ## Acknowledgments
 
-- If you find code that you are going to use in YourProjectName, include author's name and URL here.
-- all who inspired the idea and/or the code in YourProjectName
-- other people you wish to acknowledge
+- Berea CS department
 
 ## License (not required initially)
 
