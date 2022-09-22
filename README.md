@@ -9,6 +9,12 @@ I want this website to be a place where users can relate with people on their bl
 
 It is going to be a website. I want to use HTML, CSS, Bootstrap, flask
 
+### Requirements
+
+### Design
+
+1) 
+
 ## Built With
 
 - Python
