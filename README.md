@@ -13,7 +13,7 @@ It is going to be a website. I want to use HTML, CSS, Bootstrap, flask
 
 ### Design
 
-1) 
+https://github.com/Atu175/whatcanIwatch/blob/main/design.md
 
 ## Built With
 
