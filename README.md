@@ -1,4 +1,7 @@
 # WhatcanIwatch
+## Product Logo
+![LOGO](https://user-images.githubusercontent.com/59740296/196591011-dece8eda-d7f8-46f9-8ba8-6d4c2af12b5c.png)
+
 ## Description/Motivation
  A movie website that suggest movies to the user based on a certain criterial and then tells them were to watch that movie. Also, it provides a place to blog about the movie 
 ## Scope 
