@@ -31,7 +31,7 @@ https://github.com/Atu175/whatcanIwatch/blob/main/design.md
 - Berea CS department
 
 ## Installation and use guide
-
+https://github.com/Atu175/whatcanIwatch/blob/main/installation.md
 
 ## License (not required initially)
 
