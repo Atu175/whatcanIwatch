@@ -30,6 +30,9 @@ https://github.com/Atu175/whatcanIwatch/blob/main/design.md
 
 - Berea CS department
 
+## Installation and use guide
+
+
 ## License (not required initially)
 
 This project is licensed under the ??? License - see the wiki page (https://en.wikipedia.org/wiki/Software_license) for details
