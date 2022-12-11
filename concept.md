@@ -7,7 +7,7 @@
 ## Context
 - This website will be like other streaming websites like Netflix, Hulu to list a few but users won't be able to stream on it 
 ## Novelty
-- 
+- I want to be able to move forward with this project even after this class
 ## Functionality
 - blogging site: Allow users to write blogs
 - movie sites: allow users to filter movies based off of popular genres
