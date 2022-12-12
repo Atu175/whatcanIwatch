@@ -5,6 +5,9 @@
 ## Concept
 https://github.com/Atu175/whatcanIwatch/blob/main/concept.md
 
+## About
+- Lead Developer: Brandon Atu
+- Due to my love for watching and talking about movies, I wanted to create a space where people could look for movies to watch on their free time, that is friday nights, movie nights with friends. Also, I wanted to create a space where people can talk about those movies so as to give others the opportunity to share their experiences. 
 
 ## Description/Motivation
  A movie website that suggest movies to the user based on a certain criterial and then tells them were to watch that movie. Also, it provides a place to blog about the movie 
