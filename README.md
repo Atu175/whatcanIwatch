@@ -18,6 +18,8 @@ It is going to be a website. I want to use HTML, CSS, Bootstrap, flask
 
 ### Requirements
 
+https://github.com/Atu175/whatcanIwatch/blob/main/requirements.md
+
 ### Design
 
 https://github.com/Atu175/whatcanIwatch/blob/main/design.md
