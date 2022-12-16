@@ -37,6 +37,8 @@ https://github.com/Atu175/whatcanIwatch/blob/main/design.md
 
 ## Acknowledgments
 
+- My classmates
+- My capstone professor, Dr. Wilborne
 - Berea CS department
 
 ## Installation and use guide
